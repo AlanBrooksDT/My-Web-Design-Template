@@ -1,0 +1,181 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    font-size: 2.5rem;
+    color: #F84031;
+    border: .1rem solid black;
+    border-radius: 1rem;
+    width: 90%;
+    margin: 2rem auto;
+    text-align: center;
+    padding: 5rem;
+    background-image: url(./resources/images/artBackground.jpg);
+    background-size: 100% 100%;
+}
+
+h1 {
+    padding: 1px;
+    font-size: inherit;
+    font-family: 'Libre Baskerville';
+    font-weight: 700;
+}
+
+.category {
+    border: .1rem solid black;
+    border-radius: 1rem;
+    width: 90%;
+    margin: auto auto 2rem auto;
+    padding: 2rem;
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    font-size: 1.5rem;
+    margin-bottom: 2rem;
+    font-family: 'Open Sans';
+    font-weight: 600;
+}
+
+.fontExample {
+    display: inline-block;
+    vertical-align: top;
+    height: 15rem;
+    width: 48%;
+    border: .1rem solid black;
+    text-align: center;
+    margin: 0.2rem;
+}
+
+h3 {
+    font-size: 1.2rem;
+    font-family: 'Open Sans';
+    margin: 0.5rem 0 0 0;
+}
+
+.tagline {
+    text-align: center;
+    font-size: 1em;
+    font-style: italic;
+    margin-bottom: 0.8rem;
+}
+
+.lato {
+    font-family: 'Lato';
+}
+
+.helvetica {
+    font-family: 'Helvetica';
+}
+
+.openSans {
+    font-family: 'Open Sans';
+}
+
+.montserrat {
+    font-family: 'Montserrat';
+}
+
+.libreBaskerville {
+    font-family: 'Libre Baskerville';
+}
+
+.sansSerif {
+    font-family: 'Sans Serif';
+}
+
+.fontNav {
+    border-top: 0.1rem solid black;
+    border-bottom: 0.1rem solid black;
+    margin-bottom: 0.8rem;
+}
+ul {
+    list-style: none;
+}
+
+li {
+    display: inline;
+    margin: 0.1rem 0.2rem;
+}
+
+p {
+    font-size: 0.9rem;
+}
+
+.colGroup {
+    display: inline-block;
+    border: .1rem solid black;
+    margin-bottom: 0.5rem;
+    padding: 0.5rem;
+}
+
+.colPanel {
+    display: inline-block;
+    font-size: 0.9rem;
+    text-align: center;
+    padding: 1.5rem;
+    width: 8.5rem;
+    border: .1rem solid black;
+}
+
+.lightBlue {
+    background-color: #E9F1FA;
+}
+
+.brightBlue {
+    background-color: #00ABE4;
+}
+
+.white {
+    background-color: #FFFFFF;;
+}
+
+.whiteSmoke {
+    background-color: #F0F0F0;
+}
+
+.brightRed {
+    background-color: #E7473C;
+}
+
+.deepBlue {
+    background-color: #001233;
+    color: #FFFFFF;
+}
+
+.coralRed {
+    background-color: #FF595A;
+}
+
+.beige {
+    background-color: #CAC0B3;
+}
+
+.textExample {
+    text-align: left;
+}
+.textExample li {
+    display: list-item;
+    list-style: disc;
+    margin-left: 2.5rem;
+}
+
+.textExample h1{
+    font-size: 2.5rem;
+    margin-bottom: 1rem;;
+}
+
+.textExample h2 {
+    margin: 1rem 0;
+    text-align: left;
+}
+
+.textExample p {
+    margin: 1rem 0;
+    font-size: 1rem;
+}
+
